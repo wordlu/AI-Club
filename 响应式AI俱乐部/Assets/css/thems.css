@@ -73,7 +73,7 @@ a:hover{ color:#CB3333;}
 .i_line em{ display:block; width:125px; height:36px; position:absolute; left:50%; top:-1px; z-index:99; margin-left:-62px; background:url(../images/icon3.png) no-repeat;}
 .i_ma{ width:1100px; margin:0px auto; text-align:center; padding:50px 0 40px;}
 .i_ma li{ display:inline-block;*display:inline; zoom:1; width:260px; text-align:left; vertical-align:top; margin:0 5px;}
-.i_ma li img{ width:260px; height:130px; vertical-align:top;}
+.i_ma li video{ width:260px; height:130px; vertical-align:top;}
 .i_ma li .title{ width:100%; height:40px; line-height:45px; border-bottom:1px solid #eee;}
 .i_ma li .title a{ font-size:16px;font-weight:bold;}
 .i_ma li .title a em{ color:#FF3333; padding-right:8px; font-weight:bold;}

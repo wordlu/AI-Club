@@ -50,6 +50,20 @@ abbr, acronym {
 .clearfix {
 	display: block;
 }
+
+* {
+   -webkit-box-sizing: border-box; 
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+   margin:0; 
+}
+*:before,*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin:0;
+}
+/*通用父子盒子嵌套浮动问题解决，结束*/
 /*通用父子盒子嵌套浮动问题解决，结束*/
 /*间隙层开始*/
 .space_hx { /*横向间隙*/
